@@ -7,9 +7,6 @@
 <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,html,css,js,python,mysql" />
-</p>
 Nem toda evolução é visível.
 Algumas começam silenciosas, dentro da mente.
 
@@ -53,4 +50,9 @@ Mas constante.
 ---
 "A vida é feita de pontos e vírgulas.  
 Mas às vezes é preciso aceitar o ponto final para iniciar um novo parágrafo."
+
+## My Skills
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js,python,mysql" />
+</p>
 
