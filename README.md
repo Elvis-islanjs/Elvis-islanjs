@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner,png"/>
+  <img src="banner.png"/>
 </p>
 <p align="center">
 <a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
