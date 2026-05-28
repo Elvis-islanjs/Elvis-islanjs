@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=220&section=header&text=Elvis%20Islan&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="banner,png"/>
 </p>
 <p align="center">
 <a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
